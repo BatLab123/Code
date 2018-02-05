@@ -1,0 +1,15 @@
+[My Computer]
+My Computer = "172.30.79.23"
+
+[NI-sbRIO9633-01B7C4A0]
+NI-sbRIO9633-01B7C4A0 = "169.254.32.143"
+
+[NI-sbRIO9633-274]
+NI-sbRIO9633-274 = "169.254.25.118"
+
+[RT PXI Target]
+RT PXI Target = "0.0.0.0"
+
+[sbRIO9623]
+sbRIO9623 = "169.254.29.2"
+
